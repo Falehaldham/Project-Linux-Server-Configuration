@@ -155,3 +155,12 @@ Below is a list of 3rd party resources I used in this project:
 * jinja2
 * json
 * functools
+
+## (req.iv) list of any third-party resources you made use of to complete this project.
+---
+Below is a list of 3rd party resources I used in this project:
+* [Getting to Know Linux File Permissions | Linux.com | The source for Linux information](https://www.linux.com/learn/getting-know-linux-file-permissions)
+* [Flask Hello World App with Apache WSGI on Ubuntu 14 - 2018](https://www.bogotobogo.com/python/Flask/Python_Flask_HelloWorld_App_with_Apache_WSGI_Ubuntu14.php)
+* [Python: How to project folder (cant find .json file) [Errno 2] - Programming - Linus Tech Tips](https://linustechtips.com/main/topic/898357-python-how-to-project-folder-cant-find-json-file-errno-2/)
+* [Error Messages — SQLAlchemy 1.3 Documentation](https://docs.sqlalchemy.org/en/latest/errors.html#error-f405)
+* [SQLAlchemy in Flask — Flask 0.10.1 documentation](https://flask-doc.readthedocs.io/en/latest/patterns/sqlalchemy.html)
